@@ -1,0 +1,40 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore environment
+venv/
+.env/
+.venv/
+
+# Ignore dataset folders
+train/
+val/
+public_data-3/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore model artifacts
+*.pth
+*.pt
+*.ckpt
+checkpoints/
+runs/
+
+# Ignore archives / submissions
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+
+# Ignore experiment tracking outputs
+wandb/
+lightning_logs/
+
+# Ignore common IDE folders
+.vscode/
+.idea/
