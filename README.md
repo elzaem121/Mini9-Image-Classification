@@ -15,7 +15,7 @@
 
 📌 The model exceeded the baseline and achieved maximum scoring performance.
 
-![Leaderboard Result](./leaderboard.jpng)
+![Leaderboard Result](./leaderboard.jpeg)
 
 ---
 
