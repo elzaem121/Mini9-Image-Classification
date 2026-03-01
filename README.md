@@ -2,7 +2,7 @@
 
 This project trains a 9-class image classifier with a custom ResNet-style model in PyTorch.
 The main implementation is in `CutMix.ipynb` and includes data preprocessing, model definition, training, checkpointing, and evaluation.
-
+![Leaderboard Result](./leaderboard.jpeg)
 ## Main Files
 
 - `CutMix.ipynb`: full training and validation pipeline
